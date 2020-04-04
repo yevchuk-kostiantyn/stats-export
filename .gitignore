@@ -1,0 +1,4 @@
+.build
+.idea
+go.sum
+stats-export.env.local
